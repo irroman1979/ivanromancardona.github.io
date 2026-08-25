@@ -1,21 +1,22 @@
-IVAN ROMAN CARDONA — WEBSITE V2
+IVAN ROMAN CARDONA — WEBSITE V6
 
-Added:
-- Premium “Two Services. One Stop.” branding
-- Real estate + mortgage sections
-- Interactive mortgage payment estimator
-- Lead-generation contact form UI
-- FAQ section
-- Four-step process section
-- Testimonial section with placeholders for verified reviews
-- Responsive mobile navigation
-- SEO title and description
+Added a prominent APPLY NOW mortgage application experience.
 
-Before publishing:
-1. Add your current business email and phone links.
-2. Connect the form to your email/CRM/form provider.
-3. Replace testimonial placeholders with verified client reviews.
-4. Add any brokerage, lender, license/NMLS, Equal Housing Opportunity, and other disclosures required for your business.
-5. Review all claims and service descriptions for compliance.
+Application URL:
+https://2190447.my1003app.com/508325/register
 
-Hosting note: GitHub Pages supports free static hosting and custom domains.
+New features:
+- Large "APPLY NOW" banner
+- Secure Online Application CTA opens the application in a new tab
+- APPLY NOW button in navigation
+- APPLY NOW button in the hero
+- Existing Home Buyer / Pre-Approval Center remains in place
+
+Professional details:
+Real Estate: ivanromanrealtor@gmail.com | 956-405-0309
+Encore Fine Properties | REALTOR® License 813142
+Mortgage: roman@mrmortgageus.com
+Mr. Mortgage | NMLS 508325
+Facebook: https://www.facebook.com/ivanrealtorandloanofficer
+
+Review brokerage/lender advertising and disclosure requirements before public use.
